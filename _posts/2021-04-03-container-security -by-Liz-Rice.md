@@ -2,7 +2,7 @@
 layout: post
 author: ricardo
 ---
-Work In Progress - Notes inspired by the book Container Security by Liz Rice
+Work In Progress - Notes and ideas inspired by the book Container Security by Liz Rice
 
 # Chapters
 1. Container Security Threats
@@ -33,8 +33,9 @@ Work In Progress - Notes inspired by the book Container Security by Liz Rice
     
 ## 2. Linux System Calls, Permissions, and Capabilities
    - **Files Permissions**  
-    Everything is a file 
-        1. setuid and setgid  
+       1. Everything is a file  
+       why?
+       1. setuid and setgid  
         what?  
         why?  
         how?  

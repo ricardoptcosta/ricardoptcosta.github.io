@@ -3,7 +3,7 @@ layout: post
 author: ricardo
 ---
 
-What’s the role of a Certificate Authority?
+Work In Progress - What’s the role of a Certificate Authority?
 
 - Setting is: 
     - Alice wants to send message to Bob

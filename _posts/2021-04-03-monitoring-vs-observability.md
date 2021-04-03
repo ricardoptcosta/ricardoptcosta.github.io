@@ -5,6 +5,7 @@ author: ricardo
 
 
 Work in progress - What is the difference between observability and monitoring?   
+
 Monitoring:
   - We monitor applications to detect known failures (problems like storage running out of disk space or failure from an I/O bound service)
   - For unknown unknowns or unpredicted failures, monitoring is not enough.

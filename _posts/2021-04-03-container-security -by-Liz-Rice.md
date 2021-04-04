@@ -4,7 +4,24 @@ author: ricardo
 ---
 Work In Progress - Notes and ideas inspired by the book Container Security by Liz Rice
 
-# Chapters
+
+## What comes up in Google when looking for Container Security
+### A beginner’s guide to container security (Gitlab)
+  - GitLab’s 2020 Global DevSecOps Survey found 56% of developers simply don’t run container scans, and a majority of DevOps teams don’t have a security plan in place for containers or many other cutting edge software technologies, including cloud native/serverless, APIs, and microservices.
+  - Solution is to secure each stage of the application lifecycle
+  - A lot more moving pieces in containers than in traditional security
+  - Image validation must be common place to forbid untrusted images
+  - A vulnerable host puts all containers at risk, and a vulnerable container puts a host and all other containers at risk
+      - namespace isolation
+      - as simple as possible OS
+  - Secrets should be managed carefully (API keys, login credentials, and tokens,)
+
+
+  Source: https://about.gitlab.com/topics/application-security/beginners-guide-to-container-security/
+
+  <br />
+
+## Book Chapters
 1. Container Security Threats
 2. Linux System Calls, Permissions, and Capabilities
 3. Control Groups

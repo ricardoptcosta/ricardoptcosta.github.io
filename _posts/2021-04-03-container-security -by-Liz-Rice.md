@@ -1,9 +1,8 @@
 ---
 layout: post
 author: ricardo
+title: Notes and ideas inspired by the book Container Security by Liz Rice
 ---
-Work In Progress - Notes and ideas inspired by the book Container Security by Liz Rice
-
 
 ## What comes up in Google when looking for Container Security
 ### A beginner’s guide to container security (Gitlab)

@@ -1,9 +1,9 @@
 ---
 layout: post
 author: ricardo
+title: What’s the role of a Certificate Authority?
+completedness: Midway there
 ---
-
-Work In Progress - What’s the role of a Certificate Authority?
 
 - Setting is: 
     - Alice wants to send message to Bob

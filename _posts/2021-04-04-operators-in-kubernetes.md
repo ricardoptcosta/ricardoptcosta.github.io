@@ -1,9 +1,9 @@
 ---
 layout: post
 author: ricardo
+title: An introductory exploration of Operators in Kubernetes
+completedness: Initial Post Layout only
 ---
-
-Work In Progress - An introductory exploration of Operators in Kubernetes
 
 ## Where do they come from?
 ## What problem took place before they show up to win the day?

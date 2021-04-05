@@ -12,8 +12,8 @@ I use this online garden as a place to register my ideas and expose them to my f
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <h4>{% if post.completedness %}({{ post.completedness}}){% endif %} <a href="{{ post.url }}">{{ post.title }}</a></h4> 
+      <!-- {{ post.excerpt }} -->
     </li>
   {% endfor %}
 </ul>

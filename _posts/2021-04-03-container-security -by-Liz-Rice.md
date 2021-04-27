@@ -2,6 +2,8 @@
 layout: post
 author: ricardo
 title: Notes and ideas inspired by the book Container Security by Liz Rice
+completedness: early days
+
 ---
 
 ## What comes up in Google when looking for Container Security
@@ -19,6 +21,33 @@ title: Notes and ideas inspired by the book Container Security by Liz Rice
   Source: https://about.gitlab.com/topics/application-security/beginners-guide-to-container-security/
 
   <br />
+
+  ### How different is Container Security from traditional Security?
+
+  ### What different types of security are there in container security?
+
+  https://nordcloud.com/container-security-how-to-differ-from-the-traditional/
+  - Hardened container image security
+    - All libraries' vulnerabilities should be known. In particular:
+      - host OS,
+      - container dependencies
+      - and most of all the application code
+  - Infrastructure security
+    - identity management
+      - least privileges is key
+      - Role Based Access Control is one of crucial techniques (as opposed to open all roles to authenticated users)
+    - logging
+    - networking
+    - encryption
+  - Runtime security
+
+  ### What are a few hands-on examples of container security?
+
+  ## How is access implemented with RBAC?
+  https://www.youtube.com/watch?v=C4NP8Eon3cA
+  ![](../assets/images/rbac.png)
+  Benefits
+  ![](../assets/images/rbac-benefits.png)
 
 ## Book Chapters
 1. Container Security Threats

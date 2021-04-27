@@ -61,8 +61,8 @@ completedness: early days
 
   ![rbac](/assets/images/rbac.png)
   
-  Benefits  
-  
+  **Benefits**  
+
   ![rbac benefits](/assets/images/benefits.png)
 
 ## Book Chapters

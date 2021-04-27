@@ -49,9 +49,9 @@ completedness: early days
       - login attempts
     - Secure OS logging. Otherwise logs can be tampered and tracks hidden.
 
-  ### What are a few hands-on examples of container security?
+### What are a few hands-on examples of container security?
 
-  ## How is access implemented with RBAC?
+### How is access implemented with RBAC?
   
   https://www.youtube.com/watch?v=C4NP8Eon3cA
   ![rbac](/assets/images/rbac.png)

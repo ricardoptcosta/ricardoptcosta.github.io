@@ -22,9 +22,9 @@ completedness: early days
 
   <br />
 
-  ### How different is Container Security from traditional Security?
+### How different is Container Security from traditional Security?
 
-  ### What different types of security are there in container security?
+### What different types of security are there in container security?
 
   https://nordcloud.com/container-security-how-to-differ-from-the-traditional/
   - Hardened container image security
@@ -34,12 +34,22 @@ completedness: early days
       - and most of all the application code
   - Infrastructure security
     - identity management
-      - least privileges is key
+      - Least privileges is key
       - Role Based Access Control is one of crucial techniques (as opposed to open all roles to authenticated users)
-    - logging
+    - logging and audit logging
+      - AWS CloudWatch, AWS CloudTrails, Azure OMS, and Google Stackdriver
     - networking
+      - firewalls
+      - proxies
+      - security groups
+      - private clusters
     - encryption
   - Runtime security
+    - Monitor abhnormal behaviours like:
+      - network calls
+      - API calls
+      - login attempts
+    - Secure OS logging. Otherwise logs can be tampered and tracks hidden.
 
   ### What are a few hands-on examples of container security?
 

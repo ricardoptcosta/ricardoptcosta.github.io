@@ -1,7 +1,7 @@
 ---
 layout: post
 author: ricardo
-title: Notes and ideas inspired by the book Container Security by Liz Rice
+title: Notes and ideas about Container Security
 completedness: early days
 
 ---

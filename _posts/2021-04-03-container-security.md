@@ -57,7 +57,7 @@ completedness: early days
   ![rbac](/assets/images/rbac.png)
   
   Benefits
-  ![rbac benefits](/assets/images/rbac-benefits.png)
+  ![rbac benefits](/assets/images/benefits.png)
 
 ## Book Chapters
 1. Container Security Threats

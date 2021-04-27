@@ -20,9 +20,7 @@ completedness: early days
 
   Source: https://about.gitlab.com/topics/application-security/beginners-guide-to-container-security/
 
-  <br />
-
-### How different is Container Security from traditional Security?
+## How different is Container Security from traditional Security?
 
 ### What different types of security are there in container security?
 

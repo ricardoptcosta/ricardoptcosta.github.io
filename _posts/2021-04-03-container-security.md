@@ -53,6 +53,7 @@ completedness: early days
 
 ### What are a few hands-on labs on container security?
 - https://blog.pentesteracademy.com/learning-path-container-security-9a9c47760250
+- https://github.com/giper45/DockerSecurityPlayground
 
 
 ### How is access implemented with RBAC?

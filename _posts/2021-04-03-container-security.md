@@ -52,8 +52,10 @@ completedness: early days
   ### What are a few hands-on examples of container security?
 
   ## How is access implemented with RBAC?
+  
   https://www.youtube.com/watch?v=C4NP8Eon3cA
   ![rbac](/assets/images/rbac.png)
+  
   Benefits
   ![rbac benefits](/assets/images/rbac-benefits.png)
 

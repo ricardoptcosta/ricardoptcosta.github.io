@@ -57,10 +57,10 @@ completedness: early days
 
 ### How is access implemented with RBAC?
   
-  https://www.youtube.com/watch?v=C4NP8Eon3cA
+  https://www.youtube.com/watch?v=C4NP8Eon3cA  
   ![rbac](/assets/images/rbac.png)
   
-  Benefits
+  Benefits  
   ![rbac benefits](/assets/images/benefits.png)
 
 ## Book Chapters

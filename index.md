@@ -10,7 +10,8 @@ I use this online garden as a place to register my ideas and expose them to my f
 <h2>Latest Posts</h2>
 
 <ul>
-  {% for post in site.posts %}
+ {% assign sorted=site.posts | sort: 'order' %}
+  {% for post in sorted %}
     <li>
       <h4>{% if post.completedness %}({{ post.completedness}}){% endif %} <a href="{{ post.url }}">{{ post.title }}</a></h4> 
       <!-- {{ post.excerpt }} -->

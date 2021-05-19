@@ -3,6 +3,7 @@ layout: post
 author: ricardo
 title: An introductory exploration of Operators in Kubernetes
 completedness: 2%
+order: 2
 ---
 
 ## Where do they come from?

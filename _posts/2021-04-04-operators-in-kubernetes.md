@@ -2,7 +2,7 @@
 layout: post
 author: ricardo
 title: An introductory exploration of Operators in Kubernetes
-completedness: Initial Post Layout only
+completedness: 2%
 ---
 
 ## Where do they come from?

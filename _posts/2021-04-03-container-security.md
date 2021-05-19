@@ -2,7 +2,7 @@
 layout: post
 author: ricardo
 title: Notes and ideas about Container Security
-completedness: early days
+completedness: 5%
 
 ---
 

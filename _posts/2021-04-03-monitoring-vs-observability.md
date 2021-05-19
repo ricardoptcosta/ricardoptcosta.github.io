@@ -2,7 +2,7 @@
 layout: post
 author: ricardo
 title: What is the difference between observability and monitoring?
-completedness: Needs final touches
+completedness: 30%
 ---
 
 Monitoring:

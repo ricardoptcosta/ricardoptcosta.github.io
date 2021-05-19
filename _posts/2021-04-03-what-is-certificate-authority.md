@@ -2,7 +2,7 @@
 layout: post
 author: ricardo
 title: What’s the role of a Certificate Authority?
-completedness: Midway there
+completedness: 30%
 ---
 
 - Setting is: 

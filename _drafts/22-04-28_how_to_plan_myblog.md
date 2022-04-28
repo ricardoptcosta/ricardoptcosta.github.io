@@ -41,10 +41,12 @@ Have simple and effective blog.
 
     I'M HERE
     - next steps:
+      - investigate the layouts page and pick the best one and figure out how to configure it https://mmistakes.github.io/minimal-mistakes/docs/layouts/
       - put the blog online with a note saying this will be the future blog
       - add the basics to the page
       - see how to display blog posts as a grid
       - see how add header image to blog post
+      - this _config seems very complete https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 
     TODO
     - DNS between cool domain and ricardoptcosta.github.io
